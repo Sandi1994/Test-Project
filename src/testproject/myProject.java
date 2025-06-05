@@ -19,7 +19,7 @@ public class myProject {
 		driver.get("http://localhost:3000/");
 		
 		
-		//maximize the window size
+		//Maximize the window size
 		driver.manage().window().maximize();
 		
 		try {
